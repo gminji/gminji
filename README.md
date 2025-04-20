@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=ffb0c1&text=Welcome%20To-nl-MinJi's%20GitHub!&textBg=false&section=header&reversal=false&fontColor=ffffffff&fontAlignY=35&stroke=ffffff&strokeWidth=1">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&repeat=false&width=435&lines=Hello%2C+User+%3A))](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&repeat=false&width=435&lines=Hello%2C+User+%3A)" alt="Typing SVG" /></a>
