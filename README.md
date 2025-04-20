@@ -18,8 +18,12 @@ Here are some ideas to get you started:
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&repeat=false&width=435&lines=Hello%2C+User+%3A)" alt="Typing SVG" /></a>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👩‍💻 드릴형 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  <li> 일단 한번 몰입하면 끝까지 파고드는 타입의 개발자 입니다. </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👩‍💻 안녕하세요, 성장하는 개발자, 강민지 입니다! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+        <li> 현재 대학교 4학년으로 게임 백엔드 개발자를 목표로 하고 있습니다.</li>
+        <li> 성장형 개발자로서 다양한 기술을 배우고, 실력 향상에 집중하고 있습니다.</li>
+        <li> 관심 있는 기술: C#, Unity, 백엔드 개발, 게임 개발</li>
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
